@@ -1,0 +1,16 @@
+# Build leftovers. The DLL itself is NOT ignored: this repository ships it
+# built, so a server owner can install without a compiler. Anyone who prefers
+# not to trust it rebuilds and compares the hash — the build is reproducible.
+*.obj
+*.exp
+*.lib
+*.o
+*.pdb
+*.ilk
+
+# Editor and OS noise
+.vs/
+.vscode/
+*.user
+Thumbs.db
+.DS_Store

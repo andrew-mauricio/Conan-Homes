@@ -1,0 +1,7 @@
+{
+  "FullName":      "Conan Homes",
+  "Description":   "Saved locations a player can teleport back to, with their mount and followers",
+  "Version":       "1.0.0",
+  "MinApiVersion": 6,
+  "Dependencies":  []
+}
