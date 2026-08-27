@@ -9,7 +9,7 @@ the map. Your mount comes with you.
 
 <br>
 
-[![Conan Exiles Enhanced](https://img.shields.io/badge/Conan%20Exiles-Enhanced%20build%2024784646-c0392b?style=for-the-badge&logo=steam&logoColor=white)](https://www.conanexiles.com/)
+[![Conan Exiles Enhanced](https://img.shields.io/badge/Conan%20Exiles-Enhanced%20build%2024922388-c0392b?style=for-the-badge&logo=steam&logoColor=white)](https://www.conanexiles.com/)
 [![Conan-Api](https://img.shields.io/badge/Conan--Api-v6%2B-8e44ad?style=for-the-badge)](https://github.com/andrew-mauricio/Conan-Api)
 [![Windows x64](https://img.shields.io/badge/Windows-x64%20server-0078d4?style=for-the-badge&logo=windows&logoColor=white)](#building-from-source)
 [![Licence MIT](https://img.shields.io/badge/licence-MIT-16a085?style=for-the-badge)](LICENSE)
